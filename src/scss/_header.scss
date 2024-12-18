@@ -1,18 +1,21 @@
 .header {
 	position: fixed;
 	width: 100%;
-	z-index: 10;
-
-	&__inner {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		padding: 0 20px;
-		height: 100px;
-		width: 100%;
-		background-color: $header-color;
-	}
+	z-index: 1;
+	background-color: $header-color;
 }
+.header__inner {}
+.container {}
+.logo {}
+.nav {}
+.nav__list {}
+.nav__item {}
+.nav__link {}
+.header__action {}
+.phone {}
+.select_lang {}
+.lang {}
+.contact-us {}
 
 .burger {
 	display: none;

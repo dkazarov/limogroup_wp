@@ -430,15 +430,7 @@ body {
 .header {
   position: fixed;
   width: 100%;
-  z-index: 10;
-}
-.header__inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 20px;
-  height: 100px;
-  width: 100%;
+  z-index: 1;
   background-color: #1b1b1b;
 }
 
@@ -563,15 +555,7 @@ body {
 .header {
   position: fixed;
   width: 100%;
-  z-index: 10;
-}
-.header__inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 20px;
-  height: 100px;
-  width: 100%;
+  z-index: 1;
   background-color: #1b1b1b;
 }
 

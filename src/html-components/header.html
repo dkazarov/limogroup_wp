@@ -1,7 +1,33 @@
 <header class="header">
+  <div class="container">
   <div class="header__inner">
-    <div class="container">
-      <h2 class="logo">Logo</h2>
+      <img class="logo" src="./assets/logo.svg" alt="logo limogroup">
+
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a class="nav__link" href="#">Home</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">About Us</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">Our Services</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">Fleets</a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="header__action">
+        <a class="phone" href="tel:+41 79 896 96 96">+41 79 896 96 96</a>
+        <select class="select_lang">
+          <option class="lang" value="en">EN</option>
+          <option class="lang" value="ua">UA</option>
+        </select>
+        <a class="contact-us" href="#">Contact Us</a>
+      </div>
 
       @include('../html-components/burger.html')
     </div>
