@@ -404,7 +404,7 @@ body {
 }
 
 .container {
-  max-width: 1140px;
+  max-width: 1430px;
   padding: 0 15px;
   margin: 0 auto;
   flex-grow: 1;
@@ -439,7 +439,7 @@ body {
   padding: 0 20px;
   height: 100px;
   width: 100%;
-  background-color: Lavender;
+  background-color: #1b1b1b;
 }
 
 .burger {
@@ -453,7 +453,7 @@ body {
 .footer__inner {
   height: 100px;
   width: 100%;
-  background-color: Lavender;
+  background-color: L #fff;
   padding-top: 40px;
 }
 
@@ -528,7 +528,7 @@ body {
 .footer__inner {
   height: 100px;
   width: 100%;
-  background-color: Lavender;
+  background-color: L #fff;
   padding-top: 40px;
 }
 
@@ -550,7 +550,7 @@ body {
 }
 
 .container {
-  max-width: 1140px;
+  max-width: 1430px;
   padding: 0 15px;
   margin: 0 auto;
   flex-grow: 1;
@@ -572,7 +572,7 @@ body {
   padding: 0 20px;
   height: 100px;
   width: 100%;
-  background-color: Lavender;
+  background-color: #1b1b1b;
 }
 
 .burger {
